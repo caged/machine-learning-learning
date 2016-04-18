@@ -1,3 +1,8 @@
 skflow==0.1.0
 scipy==0.17.0
+psycopg2==2.6.1
+matplotlib==1.5.1
+numpy==1.11.0
+pandas==0.18.0
+scipy==0.17.0
 https://storage.googleapis.com/tensorflow/mac/tensorflow-0.8.0rc0-py3-none-any.whl

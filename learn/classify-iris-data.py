@@ -13,6 +13,7 @@ X = iris.data[:, :2]  # we only take the first two features. We could
                       # avoid this ugly slicing by using a two-dim dataset
 y = iris.target
 
+print(y)
 h = .01  # step size in the mesh
 
 # Create color maps
